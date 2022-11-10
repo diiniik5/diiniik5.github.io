@@ -1,20 +1,25 @@
 > ## CONTACTS: 
-- Mobile: +77073686682                                                
-- E-mail: nikishina.dasha98@gmail.com                     
-- Telegram: @diiniik5
-- WhatsApp, Viber: +79967412637
-- GitHub: [https://github.com/diiniik5](https://github.com/diiniik5) 
+- Mobile: 
++77073686682                                                
+- E-mail: 
+nikishina.dasha98@gmail.com                     
+- Telegram: 
+@diiniik5
+- WhatsApp, Viber: 
++79967412637
+- GitHub: 
+[https://github.com/diiniik5](https://github.com/diiniik5) 
 
 ---
 
 ## HARD SKILLS:
 - [ ] **Theory:**
-- Понимание основных принципов тестирования
-- Техники тест-дизайна (граничные значения, классы эквивалентности)
-- Модели разработки ПО
-- HTTP (методы и коды ошибок)
-- HTML/CSS
-- Клиент-серверная архитектура
+Понимание основных принципов тестирования
+Техники тест-дизайна (граничные значения, классы эквивалентности)
+Модели разработки ПО
+HTTP (методы и коды ошибок)
+HTML/CSS
+Клиент-серверная архитектура
 
 - [ ] **Testcase&Checklist:**
   - Составление тест-кейсов
