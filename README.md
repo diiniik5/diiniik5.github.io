@@ -3,7 +3,7 @@
 - E-mail:nikishina.dasha98@gmail.com                     
 - Telegram:@diiniik5
 - WhatsApp, Viber:+79967412637
-- GitHub:[https://github.com/diiniik5](https://github.com/diiniik5) 
+- GitHub: [GitHub](https://github.com/diiniik5)
 
 ---
 
