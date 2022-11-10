@@ -1,6 +1,6 @@
 ## CONTACTS: 
 - Mobile:+77073686682                                                
-- @mail:<a href=”nikishina.dasha98@gmail.com”>nikishina.dasha98@gmail.com< /a>             
+- @mail:<a href=”nikishina.dasha98@gmail.com”>nikishina.dasha98@gmail.com</a>             
 - Telegram:@diiniik5
 - WhatsApp, Viber:+79967412637
 - GitHub: [diiniik5](https://github.com/diiniik5)
