@@ -15,20 +15,24 @@
 - HTTP (методы и коды ошибок)
 - HTML/CSS
 - Клиент-серверная архитектура
+
 - [ ] **Testcase&Checklist:**
-- Составление тест-кейсов
-- Составление чек-листов
+  - Составление тест-кейсов
+  - Составление чек-листов
   - Пример чек-листов: [чек-лист формы регистрации](https://docs.google.com/spreadsheets/d/1nNi7k8aUYNtdBYrfcbWd1Qh5xUI7wgwrNdRxgLXX_Ok/edit?usp=sharing)
   - Локализация и оформление багов
   - Пример баг-репортов: [баг-репорты формы регистрации](https://docs.google.com/spreadsheets/d/1nNi7k8aUYNtdBYrfcbWd1Qh5xUI7wgwrNdRxgLXX_Ok/edit#gid=1053810103)
   - Наброски тестовой документации
   - [Тестовая документация](https://docs.google.com/document/d/1RFwxdivPcENf1tOFSpF1ZEXwvCMOX_bZIvEk0fYi2Ko/edit?usp=sharing)
+  
 -  [ ] **Terminal (cmd):**
   - Знание основных базовых команд
   - Примеры работ [Terminal](https://github.com/diiniik5/Terminal.git)
+  
 - [ ] **DevTools:**
   - Работа с: Elements, Console, Network, Perfomance.
   - Пример работы [DevTools](https://drive.google.com/file/d/1MF05ASFqF9vZdDsNmCcE6iBQApKO0Rg_/view?usp=share_link)
+  
 - [ ] **Miro:**
   - Декомпозиция сайта [Пример работы](https://drive.google.com/file/d/1yIZFTNoe9oNlYppqvW0URV_TIpkBkAyR/view?usp=share_link)
 
