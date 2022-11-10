@@ -13,17 +13,17 @@
   - Техники тест-дизайна (граничные значения, классы эквивалентности)
   - Модели разработки ПО
   - HTTP (методы и коды ошибок)
-  - HTML/CSS
+  - HTML/CSS (пример работы [Резюме](https://diiniik5.github.io/)
   - Клиент-серверная архитектура
 
 - [ ] **Testcase&Checklist:**
   - Составление тест-кейсов
   - Составление чек-листов
-  - Пример чек-листов: [чек-лист формы регистрации](https://docs.google.com/spreadsheets/d/1nNi7k8aUYNtdBYrfcbWd1Qh5xUI7wgwrNdRxgLXX_Ok/edit?usp=sharing)
+    - Пример чек-листов: [чек-лист формы регистрации](https://docs.google.com/spreadsheets/d/1nNi7k8aUYNtdBYrfcbWd1Qh5xUI7wgwrNdRxgLXX_Ok/edit?usp=sharing)
   - Локализация и оформление багов
-  - Пример баг-репортов: [баг-репорты формы регистрации](https://docs.google.com/spreadsheets/d/1nNi7k8aUYNtdBYrfcbWd1Qh5xUI7wgwrNdRxgLXX_Ok/edit#gid=1053810103)
+    - Пример баг-репортов: [баг-репорты формы регистрации](https://docs.google.com/spreadsheets/d/1nNi7k8aUYNtdBYrfcbWd1Qh5xUI7wgwrNdRxgLXX_Ok/edit#gid=1053810103)
   - Наброски тестовой документации
-  - [Тестовая документация](https://docs.google.com/document/d/1RFwxdivPcENf1tOFSpF1ZEXwvCMOX_bZIvEk0fYi2Ko/edit?usp=sharing)
+    - [Тестовая документация](https://docs.google.com/document/d/1RFwxdivPcENf1tOFSpF1ZEXwvCMOX_bZIvEk0fYi2Ko/edit?usp=sharing)
 
 -  [ ] **Terminal (cmd):**
   - Знание основных базовых команд
