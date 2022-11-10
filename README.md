@@ -4,7 +4,7 @@
 - Telegram: @diiniik5
 - WhatsApp, Viber: 89967412637
 - GitHub: [https://github.com/diiniik5](https://github.com/diiniik5) 
-
+---
 ## HARD SKILLS:
 - [ ] **Theory:**
 - Понимание основных принципов тестирования
