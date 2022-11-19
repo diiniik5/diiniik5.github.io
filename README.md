@@ -4,10 +4,10 @@
 
 
 ## CONTACTS: 
-- Mobile:+77073686682
-- WhatsApp, Viber:+79967412637
+- Mobile: +77073686682
+- WhatsApp, Viber: +79967412637
 - @mail: nikishina.dasha98@gmail.com 
-- Telegram:@diiniik5
+- Telegram: @diiniik5
 - [HH](https://hh.kz/resume/9e288c2eff0b7481350039ed1f52615855534d)
 - GitHub: [diiniik5](https://github.com/diiniik5)
 
