@@ -8,7 +8,7 @@
 - WhatsApp, Viber: +79967412637
 - @mail: nikishina.dasha98@gmail.com 
 - Telegram: @diiniik5
-- Резюме: [Head Hunter](https://hh.kz/resume/9e288c2eff0b7481350039ed1f52615855534d)
+- Resume: [Head Hunter](https://hh.kz/resume/9e288c2eff0b7481350039ed1f52615855534d)
 - GitHub: [diiniik5](https://github.com/diiniik5)
 
 ---
