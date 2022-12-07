@@ -95,6 +95,11 @@
    - [Чек-листы](https://docs.google.com/spreadsheets/d/1-HRqw6QFW1jmKinDohkrb7oQFowjZBzxWXDEedA4ong/edit?usp=sharing) 
    - [Алгоритмы компьютерного зрения](https://docs.google.com/spreadsheets/d/1AEOrkh0YHQ5YIPXNTc2FQHzQq6NwmIHaYnLzdGcf-5I/edit?usp=sharing)
   
+### 2021-2022г Тестирование на платформе VK Testers:
+- Тестирование новых продуктов на платформе VK Testers
+- Поиск багов
+- Заведение багов в баг-трекер
+
 ### 2021-2022г ООО Инвитро-СПБ (Медицинский лабораторный техник в отделе Аутоиммуных исследований):
 - Выполнение аутоиммуных исследований ручным методом и на анализаторах (Alegria, ErbaBlot, Helois)
 - Выгрузка результатов с анализаторов в БД ЛИС
