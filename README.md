@@ -49,6 +49,9 @@
 
 - [ ] **Miro:**
   - Декомпозиция сайта [Пример работы](https://drive.google.com/file/d/1yIZFTNoe9oNlYppqvW0URV_TIpkBkAyR/view?usp=share_link)
+  
+- [ ] **Figma:**
+  - Понимание принципов работы графического редактора [Пример работы](https://www.figma.com/file/yggyoTVdC6qneKH9JhA86J/Untitled?node-id=0%3A1&t=ZuxmzsZy6jULLWtG-0)
 
 - [ ] **VS code:** 
   - Знания базовых команд, булевый тип данных, циклы, стрелочные функций на языке JavaScript
