@@ -121,6 +121,9 @@
 
 ### Курсы [Вадима Ксендзова](https://ksendzov.com/) (2022г)
 
+### Курсы [OOO "ЦОК НТИ"](https://nti-center.ru/) (2022г):
+- Удостоверение: [Основы Веб-дизайна](https://drive.google.com/file/d/1NbcQlC0at99bzZONa66mZaseK_rTG76E/view?usp=share_link)
+
 ### Курсы [OOO "ЦОК НТИ"](https://nti-center.ru/) (2021г):
 - Удостоверение: [Тестировщик-простой вход в программирование](https://drive.google.com/file/d/1_9tF9Ig-7thTyGkQDrS_p9ZCM52y9gqG/view?usp=share_link)
 
