@@ -26,6 +26,7 @@
   - Модели разработки ПО
   - HTTP (методы и коды ошибок)
   - HTML/CSS [Ада Лавлейс](https://github.com/diiniik5/HTML.git)
+  - Использование систем управления: Jira, Confluence, TestTrail, Qase.io.
   - Клиент-серверная архитектура
 
 - [ ] **Testcase&Checklist:**
@@ -42,8 +43,6 @@
 -  [ ] **Git (Terminal):**
   - Знание основных базовых команд
     - Примеры работ [Terminal](https://github.com/diiniik5/Terminal.git)
-
--  [ ] **Знание систем управления: Jira, Confluence, TestTrail, Qase.io.
 
 - [ ] **DevTools:**
   - Работа с: Elements, Console, Network, Perfomance.
