@@ -43,6 +43,8 @@
   - Знание основных базовых команд
     - Примеры работ [Terminal](https://github.com/diiniik5/Terminal.git)
 
+-  [ ] **Знание систем управления: Jira, Confluence, TestTrail, Qase.io.
+
 - [ ] **DevTools:**
   - Работа с: Elements, Console, Network, Perfomance.
     - Пример работы [DevTools](https://drive.google.com/file/d/1MF05ASFqF9vZdDsNmCcE6iBQApKO0Rg_/view?usp=share_link)
